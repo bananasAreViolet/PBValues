@@ -18,24 +18,6 @@ questions = [
         }
     },
     {
-        "question": "Comedy is the base of Polandball and should remain so.",
-        "effect": {
-            "cont": 10,
-            "intr": 0,
-            "stat": 0,
-            "know": 0
-        }
-    },
-    {
-        "question": "It is preferable to focus on the comedic aspect, no matter how bad the art is.",
-        "effect": {
-            "cont": 15,
-            "intr": 0,
-            "stat": 0,
-            "know": 0
-        }
-    },
-    {
         "question": "Comics should feature more known nations, so that more people would understand the jokes.",
         "effect": {
             "cont": 0,
@@ -54,15 +36,6 @@ questions = [
         }
     },
     {
-        "question": "Without good art, a comic is nothing.",
-        "effect": {
-            "cont": -15,
-            "intr": 0,
-            "stat": 0,
-            "know": 0
-        }
-    },
-    {
         "question": "Without a punchline, a comic is nothing.",
         "effect": {
             "cont": 10,
@@ -77,24 +50,6 @@ questions = [
             "cont": -10,
             "intr": 0,
             "stat": 0,
-            "know": 0
-        }
-    },
-    {
-        "question": "I only upvote posts with a good punchline.",
-        "effect": {
-            "cont": 10,
-            "intr": 0,
-            "stat": 0,
-            "know": 0
-        }
-    },
-    {
-        "question": "I always try to have my posts be with high art value.",
-        "effect": {
-            "cont": -10,
-            "intr": 0,
-            "stat": -15,
             "know": 0
         }
     },
@@ -135,15 +90,6 @@ questions = [
         }
     },
     {
-        "question": "I joined r/Polandball because of its political aspect.",
-        "effect": {
-            "cont": 0,
-            "intr": 10,
-            "stat": 0,
-            "know": 0
-        }
-    },
-    {
         "question": "I rarely post on r/Polandball, if ever.",
         "effect": {
             "cont": 0,
@@ -162,24 +108,6 @@ questions = [
         }
     },
     {
-        "question": "I stayed in r/Polandball because of the community.",
-        "effect": {
-            "cont": 0,
-            "intr": -10,
-            "stat": 0,
-            "know": 0
-        }
-    },
-    {
-            "question": "I like the community of r/Polandball.",
-        "effect": {
-            "cont": 0,
-            "intr": -10,
-            "stat": 0,
-            "know": 0
-        }
-    },
-    {
         "question": "I rarely interact with the actual community of r/Polandball.",
         "effect": {
             "cont": 0,
@@ -194,15 +122,6 @@ questions = [
             "cont": 0,
             "intr": 0,
             "stat": 20,
-            "know": 0
-        }
-    },
-    {
-        "question": "I am extremely invested in politics.",
-        "effect": {
-            "cont": 0,
-            "intr": 10,
-            "stat": 0,
             "know": 0
         }
     },
@@ -234,24 +153,6 @@ questions = [
         }
     },
     {
-        "question": "I have drawn meta comics of members of r/Polandball.",
-        "effect": {
-            "cont": 0,
-            "intr": -10,
-            "stat": -10,
-            "know": 0
-        }
-    },
-    {
-        "question": "I like reading meta comics of r/Polandball.",
-        "effect": {
-            "cont": 0,
-            "intr": -5,
-            "stat": 5,
-            "know": 0
-        }
-    },
-    {
         "question": "I partake in the creation of events for r/Polandball.",
         "effect": {
             "cont": 0,
@@ -266,15 +167,6 @@ questions = [
             "cont": 0,
             "intr": -10,
             "stat": -5,
-            "know": 0
-        }
-    },
-    {
-        "question": "I post to r/Polandball at least once a month.",
-        "effect": {
-            "cont": 0,
-            "intr": 0,
-            "stat": -10,
             "know": 0
         }
     },
@@ -297,24 +189,6 @@ questions = [
         }
     },
     {
-        "question": "I intend on posting more comics in the future.",
-        "effect": {
-            "cont": 0,
-            "intr": 0,
-            "stat": -10,
-            "know": 0
-        }
-    },
-    {
-        "question": "My comics are usually highly upvoted.",
-        "effect": {
-            "cont": 0,
-            "intr": 0,
-            "stat": -15,
-            "know": 0
-        }
-    },
-    {
         "question": "I don't like drawing Polandball.",
         "effect": {
             "cont": 0,
@@ -330,15 +204,6 @@ questions = [
             "intr": 0,
             "stat": 0,
             "know": 10
-        }
-    },
-    {
-        "question": "I don't know anything about smaller nations.",
-        "effect": {
-            "cont": 0,
-            "intr": 0,
-            "stat": 0,
-            "know": -10
         }
     },
     {
@@ -407,19 +272,10 @@ questions = [
     {
         "question": "Shading is of utmost importance to me.",
         "effect": {
-            "cont": -10,
+            "cont": -20,
             "intr": 0,
             "stat": 0,
             "know": 0
-        }
-    },
-    {
-        "question": "There should be more comics with China.",
-        "effect": {
-            "cont": 0,
-            "intr": 0,
-            "stat": 0,
-            "know": -10
         }
     },
     {
@@ -429,24 +285,6 @@ questions = [
             "intr": 10,
             "stat": 0,
             "know": 0
-        }
-    },
-    {
-        "question": "Latvia is underrepresented in Polandball comics.",
-        "effect": {
-            "cont": 0,
-            "intr": 0,
-            "stat": 0,
-            "know": 10
-        }
-    },
-    {
-        "question": "Russia is overrepresented in Polandball comics.",
-        "effect": {
-            "cont": 0,
-            "intr": 0,
-            "stat": 0,
-            "know": 10
         }
     },
     {
@@ -468,7 +306,7 @@ questions = [
         }
     },
     {
-        "question": "I don't really follow politics that often, actually.",
+        "question": "I don't really follow politics that often.",
         "effect": {
             "cont": 0,
             "intr": -10,
@@ -495,15 +333,6 @@ questions = [
         }
     },
     {
-        "question": "I frequently chat with people in the r/Polandball Discord.",
-        "effect": {
-            "cont": 0,
-            "intr": -10,
-            "stat": 0,
-            "know": 0
-        }
-    },
-    {
         "question": "High art should rather be focused on r/Polandballart posts than r/Polandball posts.",
         "effect": {
             "cont": -10,
@@ -513,38 +342,11 @@ questions = [
         }
     },
     {
-        "question": "Jokes about France, Germany and/or the UK are overdone.",
-        "effect": {
-            "cont": 5,
-            "intr": 0,
-            "stat": 0,
-            "know": 15
-        }
-    },
-    {
         "question": "LKS is a bad idea because not everyone will manage to understand a joke about a certain country.",
         "effect": {
             "cont": 0,
             "intr": 0,
             "stat": 0,
-            "know": -10
-        }
-    },
-    {
-        "question": "I frequently post comics which people find funny.",
-        "effect": {
-            "cont": 10,
-            "intr": 0,
-            "stat": -10,
-            "know": 0
-        }
-    },
-    {
-        "question": "I don't post on LKS because I don't have any comic ideas.",
-        "effect": {
-            "cont": 0,
-            "intr": 0,
-            "stat": 10,
             "know": -10
         }
     },
@@ -563,24 +365,6 @@ questions = [
             "cont": -10,
             "intr": 0,
             "stat": 0,
-            "know": 0
-        }
-    },
-    {
-        "question": "Common stereotypes for major nations should be JLP'd more often.",
-        "effect": {
-            "cont": 0,
-            "intr": 0,
-            "stat": 0,
-            "know": 10
-        }
-    },
-    {
-        "question": "I post comics on r/Polandball.",
-        "effect": {
-            "cont": 0,
-            "intr": 0,
-            "stat": -10,
             "know": 0
         }
     },
