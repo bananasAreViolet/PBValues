@@ -49,7 +49,7 @@ stats"></a></div></noscript>
 <!-- JavaScript for the test itself -->
 <script>
     var max_cont, max_intr, max_stat, max_know; // Max possible scores
-    max_econ = max_dipl = max_govt = max_scty = 0;
+    max_cont = max_intr = max_stat = max_know = 0;
     let cont_array = new Array(questions.length);
     let intr_array = new Array(questions.length);
     let stat_array = new Array(questions.length);
@@ -57,10 +57,10 @@ stats"></a></div></noscript>
     var qn = 0; // Question number
     init_question();
     for (var i = 0; i < questions.length; i++) {
-        max_econ += Math.abs(questions[i].effect.cont)
-        max_dipl += Math.abs(questions[i].effect.intr)
-        max_govt += Math.abs(questions[i].effect.stat)
-        max_scty += Math.abs(questions[i].effect.know)
+        max_cont += Math.abs(questions[i].effect.cont)
+        max_intr += Math.abs(questions[i].effect.intr)
+        max_stat += Math.abs(questions[i].effect.stat)
+        max_know += Math.abs(questions[i].effect.know)
     }
     function init_question() {
         document.getElementById("question-text").innerHTML = questions[qn].question;
