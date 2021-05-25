@@ -1,7 +1,7 @@
 <head>
 <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,700|Roboto:400,700" rel="stylesheet">
 <link href='style.css' rel='stylesheet' type='text/css'>
-<title>8values Quiz</title>
+<title>PBvalues Quiz</title>
 <link rel="icon" type="x-icon" href="icon.png">
 <link rel="shortcut icon" type="x-icon" href="icon.png">
 <meta charset="utf-8">
@@ -17,7 +17,7 @@
 <script type="application/javascript"
         src="questions.js">
 </script>
-<h1>8values</h1>
+<h1>PBvalues</h1>
 <hr>
 <h2 style="text-align:center;" id="question-number">Loading...</h2>
 <p class="question" id="question-text"></p>
@@ -48,19 +48,19 @@ stats"></a></div></noscript>
 
 <!-- JavaScript for the test itself -->
 <script>
-    var max_econ, max_dipl, max_govt, max_scty; // Max possible scores
+    var max_cont, max_intr, max_stat, max_know; // Max possible scores
     max_econ = max_dipl = max_govt = max_scty = 0;
-    let econ_array = new Array(questions.length);
-    let dipl_array = new Array(questions.length);
-    let govt_array = new Array(questions.length);
-    let scty_array = new Array(questions.length);
+    let cont_array = new Array(questions.length);
+    let intr_array = new Array(questions.length);
+    let stat_array = new Array(questions.length);
+    let know_array = new Array(questions.length);
     var qn = 0; // Question number
     init_question();
     for (var i = 0; i < questions.length; i++) {
-        max_econ += Math.abs(questions[i].effect.econ)
-        max_dipl += Math.abs(questions[i].effect.dipl)
-        max_govt += Math.abs(questions[i].effect.govt)
-        max_scty += Math.abs(questions[i].effect.scty)
+        max_econ += Math.abs(questions[i].effect.cont)
+        max_dipl += Math.abs(questions[i].effect.intr)
+        max_govt += Math.abs(questions[i].effect.stat)
+        max_scty += Math.abs(questions[i].effect.know)
     }
     function init_question() {
         document.getElementById("question-text").innerHTML = questions[qn].question;
@@ -76,10 +76,10 @@ stats"></a></div></noscript>
     }
 
     function next_question(mult) {
-        econ_array[qn] = mult*questions[qn].effect.econ
-        dipl_array[qn] = mult*questions[qn].effect.dipl
-        govt_array[qn] = mult*questions[qn].effect.govt
-        scty_array[qn] = mult*questions[qn].effect.scty
+        cont_array[qn] = mult*questions[qn].effect.cont
+        intr_array[qn] = mult*questions[qn].effect.intr
+        stat_array[qn] = mult*questions[qn].effect.stat
+        know_array[qn] = mult*questions[qn].effect.know
         qn++;
         if (qn < questions.length) {
             init_question();
@@ -101,15 +101,15 @@ stats"></a></div></noscript>
     }
 
     function results() {
-        let final_econ = econ_array.reduce((a, b) => a + b, 0)
-        let final_dipl = dipl_array.reduce((a, b) => a + b, 0)
-        let final_govt = govt_array.reduce((a, b) => a + b, 0)
-        let final_scty = scty_array.reduce((a, b) => a + b, 0)
+        let final_cont = cont_array.reduce((a, b) => a + b, 0)
+        let final_intr = intr_array.reduce((a, b) => a + b, 0)
+        let final_stat = stat_array.reduce((a, b) => a + b, 0)
+        let final_know = know_array.reduce((a, b) => a + b, 0)
         location.href = `results.html`
-            + `?e=${calc_score(final_econ,max_econ)}`
-            + `&d=${calc_score(final_dipl,max_dipl)}`
-            + `&g=${calc_score(final_govt,max_govt)}`
-            + `&s=${calc_score(final_scty,max_scty)}`
+            + `?e=${calc_score(final_cont,max_cont)}`
+            + `&d=${calc_score(final_intr,max_intr)}`
+            + `&g=${calc_score(final_stat,max_stat)}`
+            + `&s=${calc_score(final_know,max_know)}`
     }
 </script>
 </body>
