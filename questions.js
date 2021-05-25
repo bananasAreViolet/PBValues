@@ -2,7 +2,7 @@ questions = [
     {
         "question": "Comics should focus more on art than comedy.",
         "effect": {
-            "cont": 10,
+            "cont": -10,
             "intr": 0,
             "stat": 0,
             "know": 0
@@ -11,7 +11,7 @@ questions = [
     {
         "question": "Comic creators should only strive for good art, no matter how bad the punchline.",
         "effect": {
-            "cont": 15,
+            "cont": -15,
             "intr": 0,
             "stat": 0,
             "know": 0
@@ -20,7 +20,7 @@ questions = [
     {
         "question": "Comedy is the base of Polandball and should remain so.",
         "effect": {
-            "cont": -10,
+            "cont": 10,
             "intr": 0,
             "stat": 0,
             "know": 0
@@ -29,7 +29,7 @@ questions = [
     {
         "question": "It is preferable to focus on the comedic aspect, no matter how bad the art is.",
         "effect": {
-            "cont": -15,
+            "cont": 15,
             "intr": 0,
             "stat": 0,
             "know": 0
@@ -41,7 +41,7 @@ questions = [
             "cont": 0,
             "intr": 0,
             "stat": 0,
-            "know": 10
+            "know": -10
         }
     },
     {
@@ -56,7 +56,7 @@ questions = [
     {
         "question": "Without good art, a comic is nothing.",
         "effect": {
-            "cont": 15,
+            "cont": -15,
             "intr": 0,
             "stat": 0,
             "know": 0
@@ -65,7 +65,7 @@ questions = [
     {
         "question": "Without a punchline, a comic is nothing.",
         "effect": {
-            "cont": -10,
+            "cont": 10,
             "intr": 0,
             "stat": 0,
             "know": 0
@@ -74,7 +74,7 @@ questions = [
     {
         "question": "I only upvote posts with good art.",
         "effect": {
-            "cont": 10,
+            "cont": -10,
             "intr": 0,
             "stat": 0,
             "know": 0
@@ -83,7 +83,7 @@ questions = [
     {
         "question": "I only upvote posts with a good punchline.",
         "effect": {
-            "cont": -10,
+            "cont": 10,
             "intr": 0,
             "stat": 0,
             "know": 0
@@ -92,25 +92,25 @@ questions = [
     {
         "question": "I always try to have my posts be with high art value.",
         "effect": {
-            "cont": 10,
+            "cont": -10,
             "intr": 0,
-            "stat": -10,
+            "stat": -15,
             "know": 0
         }
     },
     {
         "question": "I always try to have my posts be highly comedic.",
         "effect": {
-            "cont": -10,
+            "cont": 10,
             "intr": 0,
-            "stat": -10,
+            "stat": -15,
             "know": 0
         }
     },
     {
         "question": "Not everyone is able to draw well and that should be accepted.",
         "effect": {
-            "cont": -10,
+            "cont": 10,
             "intr": 0,
             "stat": 0,
             "know": 0
@@ -119,7 +119,7 @@ questions = [
     {
         "question": "Everyone should be held to the same standard when judging art in a comic.",
         "effect": {
-            "cont": 10,
+            "cont": -15,
             "intr": 0,
             "stat": 0,
             "know": 0
@@ -128,23 +128,23 @@ questions = [
     {
         "question": "Art makes or breaks a comic.",
         "effect": {
-            "cont": 10,
+            "cont": -10,
             "intr": 0,
             "stat": 0,
             "know": 0
         }
     },
     {
-        "question": "I joined r/Polandball because of its political aspect..",
+        "question": "I joined r/Polandball because of its political aspect.",
         "effect": {
             "cont": 0,
-            "intr": -10,
+            "intr": 10,
             "stat": 0,
             "know": 0
         }
     },
     {
-        "question": "I rarely post on r/Polandball.",
+        "question": "I rarely post on r/Polandball, if ever.",
         "effect": {
             "cont": 0,
             "intr": 0,
@@ -157,7 +157,7 @@ questions = [
         "effect": {
             "cont": 0,
             "intr": 0,
-            "stat": 10,
+            "stat": -10,
             "know": 10
         }
     },
@@ -165,7 +165,7 @@ questions = [
         "question": "I stayed in r/Polandball because of the community.",
         "effect": {
             "cont": 0,
-            "intr": 10,
+            "intr": -10,
             "stat": 0,
             "know": 0
         }
@@ -174,7 +174,7 @@ questions = [
             "question": "I like the community of r/Polandball.",
         "effect": {
             "cont": 0,
-            "intr": 10,
+            "intr": -10,
             "stat": 0,
             "know": 0
         }
@@ -183,7 +183,7 @@ questions = [
         "question": "I rarely interact with the actual community of r/Polandball.",
         "effect": {
             "cont": 0,
-            "intr": -10,
+            "intr": 10,
             "stat": 0,
             "know": 0
         }
@@ -210,7 +210,7 @@ questions = [
         "question": "I have drawn portraits of other members of r/Polandball.",
         "effect": {
             "cont": 0,
-            "intr": 10,
+            "intr": -10,
             "stat": 0,
             "know": 0
         }
@@ -219,7 +219,7 @@ questions = [
         "question": "I am aware that there is a r/Polandball Discord server.",
         "effect": {
             "cont": 0,
-            "intr": 10,
+            "intr": -10,
             "stat": 0,
             "know": 0
         }
@@ -228,7 +228,7 @@ questions = [
         "question": "I am a member of the r/Polandball Discord server.",
         "effect": {
             "cont": 0,
-            "intr": 10,
+            "intr": -10,
             "stat": 0,
             "know": 0
         }
@@ -237,7 +237,7 @@ questions = [
         "question": "I have drawn meta comics of members of r/Polandball.",
         "effect": {
             "cont": 0,
-            "intr": 10,
+            "intr": -10,
             "stat": -10,
             "know": 0
         }
@@ -246,7 +246,7 @@ questions = [
         "question": "I like reading meta comics of r/Polandball.",
         "effect": {
             "cont": 0,
-            "intr": 5,
+            "intr": -5,
             "stat": 5,
             "know": 0
         }
@@ -255,7 +255,7 @@ questions = [
         "question": "I partake in the creation of events for r/Polandball.",
         "effect": {
             "cont": 0,
-            "intr": 10,
+            "intr": -10,
             "stat": -10,
             "know": 0
         }
@@ -264,7 +264,7 @@ questions = [
         "question": "I am a fairly known person in r/Polandball.",
         "effect": {
             "cont": 0,
-            "intr": 10,
+            "intr": -10,
             "stat": -5,
             "know": 0
         }
@@ -275,7 +275,7 @@ questions = [
             "cont": 0,
             "intr": 0,
             "stat": -10,
-            "know": 5
+            "know": 0
         }
     },
     {
@@ -293,7 +293,7 @@ questions = [
             "cont": 0,
             "intr": 20,
             "stat": 10,
-            "know": 5
+            "know": 15
         }
     },
     {
@@ -308,7 +308,7 @@ questions = [
     {
         "question": "My comics are usually highly upvoted.",
         "effect": {
-            "cont": -10,
+            "cont": 0,
             "intr": 0,
             "stat": -15,
             "know": 0
@@ -329,7 +329,7 @@ questions = [
             "cont": 0,
             "intr": 0,
             "stat": 0,
-            "know": -20
+            "know": 10
         }
     },
     {
@@ -338,7 +338,7 @@ questions = [
             "cont": 0,
             "intr": 0,
             "stat": 0,
-            "know": 10
+            "know": -10
         }
     },
     {
@@ -347,7 +347,7 @@ questions = [
             "cont": 0,
             "intr": 0,
             "stat": 0,
-            "know": 10
+            "know": -10
         }
     },
     {
@@ -356,13 +356,13 @@ questions = [
             "cont": 0,
             "intr": 0,
             "stat": 0,
-            "know": 10
+            "know": -10
         }
     },
     {
         "question": "The Joke Life Preserve is a good thing.",
         "effect": {
-            "cont": -10,
+            "cont": 10,
             "intr": 0,
             "stat": 0,
             "know": -10
@@ -374,7 +374,7 @@ questions = [
             "cont": 0,
             "intr": 0,
             "stat": 0,
-            "know": -15
+            "know": 15
         }
     },
     {
@@ -383,7 +383,7 @@ questions = [
             "cont": 0,
             "intr": 0,
             "stat": 0,
-            "know": -10
+            "know": 10
         }
     },
     {
@@ -392,11 +392,29 @@ questions = [
             "cont": 0,
             "intr": 0,
             "stat": 0,
+            "know": -10
+        }
+    },
+    {
+        "question": "There are so many jokes to be made about some countries that aren't unfortunately in comics yet.",
+        "effect": {
+            "cont": 0,
+            "intr": 0,
+            "stat": 0,
             "know": 10
         }
     },
     {
-        "question": "There are so many jokes to be made about some countries that are unfortunately not often in comics",
+        "question": "Shading is of utmost importance to me.",
+        "effect": {
+            "cont": -10,
+            "intr": 0,
+            "stat": 0,
+            "know": 0
+        }
+    },
+    {
+        "question": "There should be more comics with China.",
         "effect": {
             "cont": 0,
             "intr": 0,
@@ -405,7 +423,16 @@ questions = [
         }
     },
     {
-        "question": "Traditions are of no value on their own.",
+        "question": "I am better at talking politics than making comics about it.",
+        "effect": {
+            "cont": -10,
+            "intr": 10,
+            "stat": 0,
+            "know": 0
+        }
+    },
+    {
+        "question": "Latvia is underrepresented in Polandball comics.",
         "effect": {
             "cont": 0,
             "intr": 0,
@@ -414,111 +441,84 @@ questions = [
         }
     },
     {
-        "question": "Religion should play a role in government.",
+        "question": "Russia is overrepresented in Polandball comics.",
+        "effect": {
+            "cont": 0,
+            "intr": 0,
+            "stat": 0,
+            "know": 10
+        }
+    },
+    {
+        "question": "The Greatest Enemy is proof that comics don't have to be comedic to be good.",
+        "effect": {
+            "cont": -15,
+            "intr": 0,
+            "stat": 0,
+            "know": 0
+        }
+    },
+    {
+        "question": "If it were up to me, lesser known nations would be banned from usage.",
+        "effect": {
+            "cont": 0,
+            "intr": 0,
+            "stat": 0,
+            "know": -10
+        }
+    },
+    {
+        "question": "I don't really follow politics that often, actually.",
+        "effect": {
+            "cont": 0,
+            "intr": -10,
+            "stat": 0,
+            "know": 0
+        }
+    },
+    {
+        "question": "If I had to choose, I would rather have consistently comedic comics rather than consistently high art comics.",
+        "effect": {
+            "cont": 10,
+            "intr": 0,
+            "stat": 0,
+            "know": 0
+        }
+    },
+    {
+        "question": "I have partaken in LKS.",
         "effect": {
             "cont": 0,
             "intr": 0,
             "stat": -10,
-            "know": -10
+            "know": 10
         }
     },
     {
-        "question": "Churches should be taxed the same way other institutions are taxed.",
+        "question": "I frequently chat with people in the r/Polandball Discord.",
+        "effect": {
+            "cont": 0,
+            "intr": -10,
+            "stat": 0,
+            "know": 0
+        }
+    },
+    {
+        "question": "High art should rather be focused on r/Polandballart posts than r/Polandball posts.",
+        "effect": {
+            "cont": -10,
+            "intr": 0,
+            "stat": 0,
+            "know": 0
+        }
+    },
+    {
+        "question": "Jokes about France, Germany and/or the UK are overdone.",
         "effect": {
             "cont": 5,
             "intr": 0,
             "stat": 0,
-            "know": 10
-        }
-    },
-    {
-        "question": "Climate change is currently one of the greatest threats to our way of life.",
-        "effect": {
-            "cont": 0,
-            "intr": 0,
-            "stat": 0,
-            "know": 10
-        }
-    },
-    {
-        "question": "It is important that we work as a united world to combat climate change.",
-        "effect": {
-            "cont": 0,
-            "intr": 10,
-            "stat": 0,
-            "know": 10
-        }
-    },
-    {
-        "question": "Society was better many years ago than it is now.",
-        "effect": {
-            "cont": 0,
-            "intr": 0,
-            "stat": 0,
-            "know": -10
-        }
-    },
-    {
-        "question": "It is important that we maintain the traditions of our past.",
-        "effect": {
-            "cont": 0,
-            "intr": 0,
-            "stat": 0,
-            "know": -10
-        }
-    },
-    {
-        "question": "It is important that we think in the long term, beyond our lifespans.",
-        "effect": {
-            "cont": 0,
-            "intr": 0,
-            "stat": 0,
-            "know": 10
-        }
-    },
-    {
-        "question": "Reason is more important than maintaining our culture.",
-        "effect": {
-            "cont": 0,
-            "intr": 0,
-            "stat": 0,
-            "know": 10
-        }
-    },
-    {
-        "question": "Drug use should be legalized or decriminalized.",
-        "effect": {
-            "cont": 0,
-            "intr": 0,
-            "stat": 10,
-            "know": 2
-        }
-    },
-    {
-        "question": "Same-sex marriage should be legal.",
-        "effect": {
-            "cont": 0,
-            "intr": 0,
-            "stat": 10,
-            "know": 10
-        }
-    },
-    {
-        "question": "No cultures are superior to others.",
-        "effect": {
-            "cont": 0,
-            "intr": 10,
-            "stat": 5,
-            "know": 10
-        }
-    },
-    {
-        "question": "Sex outside marriage is immoral.",
-        "effect": {
-            "cont": 0,
-            "intr": 0,
-            "stat": -5,
-            "know": -10
+            "know": 15
         }
     },
     {
