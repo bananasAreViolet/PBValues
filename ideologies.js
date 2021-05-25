@@ -1,6 +1,6 @@
 ideologies = [
     {
-        "name": "Anarcho-Communism",
+        "name": "Oscar but Art Purist",
         "stats": {
             "cont": 100,
             "shad": 50,
@@ -9,7 +9,7 @@ ideologies = [
         }
     },
     {
-        "name": "Libertarian Communism",
+        "name": "24/7 Quality Art Purist",
         "stats": {
             "cont": 100,
             "shad": 70,
@@ -18,7 +18,7 @@ ideologies = [
         }
     },
     {
-        "name": "Trotskyism",
+        "name": "Quality Art Purist",
         "stats": {
             "cont": 100,
             "shad": 100,
@@ -27,7 +27,7 @@ ideologies = [
         }
     },
     {
-        "name": "Marxism",
+        "name": "Infrequent Poster Art Purist",
         "stats": {
             "cont": 100,
             "shad": 70,
@@ -36,7 +36,7 @@ ideologies = [
         }
     },
     {
-        "name": "De Leonism",
+        "name": "Lurking Shadeless Art Purist",
         "stats": {
             "cont": 100,
             "shad": 30,
@@ -45,7 +45,7 @@ ideologies = [
         }
     },
     {
-        "name": "Leninism",
+        "name": "Inactive Art Purist",
         "stats": {
             "cont": 100,
             "shad": 40,
@@ -54,7 +54,7 @@ ideologies = [
         }
     },
     {
-        "name": "Stalinism/Maoism",
+        "name": "Super Inactive Art Purist",
         "stats": {
             "cont": 100,
             "shad": 20,
@@ -63,7 +63,7 @@ ideologies = [
         }
     },
     {
-        "name": "Religious Communism",
+        "name": "Lesser Known Posting Art Purist",
         "stats": {
             "cont": 100,
             "shad": 50,
@@ -72,7 +72,7 @@ ideologies = [
         }
     },
     {
-        "name": "State Socialism",
+        "name": "Infrequent High Art Poster",
         "stats": {
             "cont": 80,
             "shad": 30,
@@ -81,7 +81,7 @@ ideologies = [
         }
     },
     {
-        "name": "Theocratic Socialism",
+        "name": "Lurking Art & LKS Fan",
         "stats": {
             "cont": 80,
             "shad": 50,
@@ -90,7 +90,7 @@ ideologies = [
         }
     },
     {
-        "name": "Religious Socialism",
+        "name": "High Art LKS Poster",
         "stats": {
             "cont": 80,
             "shad": 50,
@@ -99,7 +99,7 @@ ideologies = [
         }
     },
     {
-        "name": "Democratic Socialism",
+        "name": "Average High Art Fan",
         "stats": {
             "cont": 80,
             "shad": 50,
@@ -108,7 +108,7 @@ ideologies = [
         }
     },
     {
-        "name": "Revolutionary Socialism",
+        "name": "Shadeless High Art Fan",
         "stats": {
             "cont": 80,
             "shad": 20,
@@ -117,7 +117,7 @@ ideologies = [
         }
     },
     {
-        "name": "Libertarian Socialism",
+        "name": "Average High Art Poster",
         "stats": {
             "cont": 80,
             "shad": 80,
@@ -126,7 +126,7 @@ ideologies = [
         }
     },
     {
-        "name": "Anarcho-Syndicalism",
+        "name": "24/7 Posting High Art Fan",
         "stats": {
             "cont": 80,
             "shad": 50,
@@ -135,7 +135,7 @@ ideologies = [
         }
     },
     {
-        "name": "Left-Wing Populism",
+        "name": "Lurking Art Fan",
         "stats": {
             "cont": 60,
             "shad": 40,
@@ -144,7 +144,7 @@ ideologies = [
         }
     },
     {
-        "name": "Theocratic Distributism",
+        "name": "Lurking LKS Fan",
         "stats": {
             "cont": 60,
             "shad": 40,
@@ -153,7 +153,7 @@ ideologies = [
         }
     },
     {
-        "name": "Distributism",
+        "name": "Average LKS Fan",
         "stats": {
             "cont": 60,
             "shad": 50,
@@ -162,7 +162,7 @@ ideologies = [
         }
     },
     {
-        "name": "Social Liberalism",
+        "name": "More Known Nations Fan",
         "stats": {
             "cont": 60,
             "shad": 60,
@@ -171,7 +171,7 @@ ideologies = [
         }
     },
     {
-        "name": "Christian Democracy",
+        "name": "LKS Fan",
         "stats": {
             "cont": 60,
             "shad": 60,
@@ -180,7 +180,7 @@ ideologies = [
         }
     },
     {
-        "name": "Social Democracy",
+        "name": "Known Nations & Shading Fan",
         "stats": {
             "cont": 60,
             "shad": 70,
@@ -189,7 +189,7 @@ ideologies = [
         }
     },
     {
-        "name": "Progressivism",
+        "name": "Known Nations Extremist",
         "stats": {
             "cont": 60,
             "shad": 80,
@@ -198,7 +198,7 @@ ideologies = [
         }
     },
     {
-        "name": "Anarcho-Mutualism",
+        "name": "24/7 Known Nations Poster",
         "stats": {
             "cont": 60,
             "shad": 50,
@@ -207,7 +207,7 @@ ideologies = [
         }
     },
     {
-        "name": "National Totalitarianism",
+        "name": "Only Lurking Shading Disliker",
         "stats": {
             "cont": 50,
             "shad": 20,
@@ -216,7 +216,7 @@ ideologies = [
         }
     },
     {
-        "name": "Global Totalitarianism",
+        "name": "Only Lurking Shading Fan",
         "stats": {
             "cont": 50,
             "shad": 80,
@@ -225,7 +225,7 @@ ideologies = [
         }
     },
     {
-        "name": "Technocracy",
+        "name": "Lurking Known Nations Fan",
         "stats": {
             "cont": 60,
             "shad": 60,
@@ -234,7 +234,7 @@ ideologies = [
         }
     },
     {
-        "name": "Centrist",
+        "name": "Moderate Sub Browser",
         "stats": {
             "cont": 50,
             "shad": 50,
@@ -243,7 +243,7 @@ ideologies = [
         }
     },
     {
-        "name": "Liberalism",
+        "name": "Average r/Polandball User",
         "stats": {
             "cont": 50,
             "shad": 60,
@@ -252,7 +252,7 @@ ideologies = [
         }
     },
     {
-        "name": "Religious Anarchism",
+        "name": "24/7 Posting LKS Fan",
         "stats": {
             "cont": 50,
             "shad": 50,
@@ -261,7 +261,7 @@ ideologies = [
         }
     },
     {
-        "name": "Right-Wing Populism",
+        "name": "Lurking LKS Fan",
         "stats": {
             "cont": 40,
             "shad": 30,
