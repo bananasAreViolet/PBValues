@@ -1,6 +1,6 @@
 ideologies = [
     {
-        "name": "Oscar",
+        "name": "Lurking Comedy Purist",
         "stats": {
             "cont": 100,
             "intr": 50,
@@ -9,7 +9,7 @@ ideologies = [
         }
     },
     {
-        "name": "24/7 Quality Comedy Purist",
+        "name": "Lurking LKS Enjoyer",
         "stats": {
             "cont": 100,
             "intr": 70,
@@ -18,7 +18,7 @@ ideologies = [
         }
     },
     {
-        "name": "Comedy Purist",
+        "name": "Comedic Politics Enjoyer",
         "stats": {
             "cont": 100,
             "intr": 100,
@@ -27,7 +27,7 @@ ideologies = [
         }
     },
     {
-        "name": "Infrequent Poster Comedy Purist",
+        "name": "Average Comedy Purist",
         "stats": {
             "cont": 100,
             "intr": 70,
@@ -36,7 +36,7 @@ ideologies = [
         }
     },
     {
-        "name": "Lurking Comedy Purist",
+        "name": "LKS Comedy Purist",
         "stats": {
             "cont": 100,
             "intr": 30,
@@ -45,7 +45,7 @@ ideologies = [
         }
     },
     {
-        "name": "Super Lurking Comedy Purist",
+        "name": "Active Comedy Purist",
         "stats": {
             "cont": 100,
             "intr": 40,
@@ -54,7 +54,7 @@ ideologies = [
         }
     },
     {
-        "name": "Lurk-Only Comedy Purist",
+        "name": "Post-Only Comedy Purist",
         "stats": {
             "cont": 100,
             "intr": 20,
@@ -63,7 +63,7 @@ ideologies = [
         }
     },
     {
-        "name": "Lesser Known Posting Comedy Purist",
+        "name": "Frequently Posting Comedy Purist",
         "stats": {
             "cont": 100,
             "intr": 50,
@@ -72,7 +72,7 @@ ideologies = [
         }
     },
     {
-        "name": "Infrequent High Comedy Poster",
+        "name": "Active LKS Enthusiast",
         "stats": {
             "cont": 80,
             "intr": 30,
@@ -81,7 +81,7 @@ ideologies = [
         }
     },
     {
-        "name": "Lurking Comedy & LKS Fan",
+        "name": "Oscar, essentially",
         "stats": {
             "cont": 80,
             "intr": 50,
@@ -90,7 +90,7 @@ ideologies = [
         }
     },
     {
-        "name": "High Comedy LKS Poster",
+        "name": "Inactive Version of Oscar",
         "stats": {
             "cont": 80,
             "intr": 50,
@@ -108,7 +108,7 @@ ideologies = [
         }
     },
     {
-        "name": "Politics-Liking Comedy Fan",
+        "name": "Community-Oriented Comedy Enjoyer",
         "stats": {
             "cont": 80,
             "intr": 20,
@@ -117,7 +117,7 @@ ideologies = [
         }
     },
     {
-        "name": "Average Quality Comedy Poster",
+        "name": "Lurking LKS Exceptionalist",
         "stats": {
             "cont": 80,
             "intr": 80,
@@ -126,7 +126,7 @@ ideologies = [
         }
     },
     {
-        "name": "24/7 Posting Comedy Quality Fan",
+        "name": "Full-Lurking Comedy Fan",
         "stats": {
             "cont": 80,
             "intr": 50,
@@ -135,7 +135,7 @@ ideologies = [
         }
     },
     {
-        "name": "Lurking Comedy Fan",
+        "name": "Active LKS Enjoyer",
         "stats": {
             "cont": 60,
             "intr": 40,
@@ -144,7 +144,7 @@ ideologies = [
         }
     },
     {
-        "name": "Lurking LKS Fan",
+        "name": "Active LKS Disliker",
         "stats": {
             "cont": 60,
             "intr": 40,
@@ -153,7 +153,7 @@ ideologies = [
         }
     },
     {
-        "name": "Average LKS Fan",
+        "name": "Average LKS Disliker",
         "stats": {
             "cont": 60,
             "intr": 50,
@@ -162,7 +162,7 @@ ideologies = [
         }
     },
     {
-        "name": "More Known Nations Fan",
+        "name": "LKS Exceptionalist",
         "stats": {
             "cont": 60,
             "intr": 60,
@@ -171,7 +171,7 @@ ideologies = [
         }
     },
     {
-        "name": "LKS Fan",
+        "name": "What the hell is a Ghana?",
         "stats": {
             "cont": 60,
             "intr": 60,
@@ -180,7 +180,7 @@ ideologies = [
         }
     },
     {
-        "name": "Known Nations & Community Fan",
+        "name": "Political Enthusiast",
         "stats": {
             "cont": 60,
             "intr": 70,
@@ -189,7 +189,7 @@ ideologies = [
         }
     },
     {
-        "name": "Known Nations Extremist",
+        "name": "Why is the US not banned yet?",
         "stats": {
             "cont": 60,
             "intr": 80,
@@ -198,7 +198,7 @@ ideologies = [
         }
     },
     {
-        "name": "24/7 Known Nations Poster",
+        "name": "Grayname LKS Reader",
         "stats": {
             "cont": 60,
             "intr": 50,
@@ -207,7 +207,7 @@ ideologies = [
         }
     },
     {
-        "name": "Only Lurking Community Liker",
+        "name": "No-Life Community Member",
         "stats": {
             "cont": 50,
             "intr": 20,
@@ -216,7 +216,7 @@ ideologies = [
         }
     },
     {
-        "name": "Only Lurking Politics Fan",
+        "name": "No-Life Political Expert",
         "stats": {
             "cont": 50,
             "intr": 80,
@@ -225,7 +225,7 @@ ideologies = [
         }
     },
     {
-        "name": "Lurking Known Nations Fan",
+        "name": "Really Frequent Poster",
         "stats": {
             "cont": 60,
             "intr": 60,
@@ -252,7 +252,7 @@ ideologies = [
         }
     },
     {
-        "name": "24/7 Posting LKS Fan",
+        "name": "Lurking LKS Disliker",
         "stats": {
             "cont": 50,
             "intr": 50,
@@ -261,7 +261,7 @@ ideologies = [
         }
     },
     {
-        "name": "Lurking LKS & Politics Fan",
+        "name": "LKS-Disliking Politics Enthusiast",
         "stats": {
             "cont": 40,
             "intr": 30,
@@ -270,7 +270,7 @@ ideologies = [
         }
     },
     {
-        "name": "Art-Leaning LKS Fan",
+        "name": "Moderate LKS Disliker",
         "stats": {
             "cont": 40,
             "intr": 40,
@@ -279,7 +279,7 @@ ideologies = [
         }
     },
     {
-        "name": "LKS Extremist",
+        "name": "Anti-LKS Extremist",
         "stats": {
             "cont": 40,
             "intr": 40,
@@ -288,7 +288,7 @@ ideologies = [
         }
     },
     {
-        "name": "Comedy-Leaning Frequent Poster",
+        "name": "Comedy-Leaning Lurker",
         "stats": {
             "cont": 60,
             "intr": 70,
@@ -297,7 +297,7 @@ ideologies = [
         }
     },
     {
-        "name": "Art-Leaning Poster",
+        "name": "Rare Poster",
         "stats": {
             "cont": 40,
             "intr": 60,
@@ -306,7 +306,7 @@ ideologies = [
         }
     },
     {
-        "name": "24/7 Art-Leaning Poster",
+        "name": "Never-Posting Art Liker",
         "stats": {
             "cont": 40,
             "intr": 50,
@@ -315,7 +315,7 @@ ideologies = [
         }
     },
     {
-        "name": "Only-Lurking LKS Extremist",
+        "name": "No-Life Anti-LKS Community Member",
         "stats": {
             "cont": 40,
             "intr": 0,
@@ -324,7 +324,7 @@ ideologies = [
         }
     },
     {
-        "name": "Lurking Politics Fan",
+        "name": "Active Community Fan",
         "stats": {
             "cont": 50,
             "intr": 20,
@@ -333,7 +333,7 @@ ideologies = [
         }
     },
     {
-        "name": "Lurking LKS & Politics Fan",
+        "name": "Active Anti-LKS Activist",
         "stats": {
             "cont": 40,
             "intr": 20,
@@ -342,7 +342,7 @@ ideologies = [
         }
     },
     {
-        "name": "Lurking Artistic LKS Liker",
+        "name": "Artistic Anti-LKS Poster",
         "stats": {
             "cont": 20,
             "intr": 20,
@@ -351,7 +351,7 @@ ideologies = [
         }
     },
     {
-        "name": "Artistic LKS Liker",
+        "name": "Anti-LKS Poster",
         "stats": {
             "cont": 30,
             "intr": 40,
@@ -360,7 +360,7 @@ ideologies = [
         }
     },
     {
-        "name": "Art-Liking Politics Fan",
+        "name": "Artistic Community Fan",
         "stats": {
             "cont": 30,
             "intr": 30,
@@ -378,7 +378,7 @@ ideologies = [
         }
     },
     {
-        "name": "Lurking Art & Politics Fan",
+        "name": "Artistic Discord Member",
         "stats": {
             "cont": 20,
             "intr": 30,
@@ -387,7 +387,7 @@ ideologies = [
         }
     },
     {
-        "name": "Lurking Art Fan",
+        "name": "Average r/Polandballart User",
         "stats": {
             "cont": 20,
             "intr": 50,
@@ -396,7 +396,7 @@ ideologies = [
         }
     },
     {
-        "name": "Art & LKS Fan",
+        "name": "Artistic r/PBC User",
         "stats": {
             "cont": 20,
             "intr": 20,
@@ -405,7 +405,7 @@ ideologies = [
         }
     },
     {
-        "name": "LKS Exceptionalist",
+        "name": "LKS Hater",
         "stats": {
             "cont": 20,
             "intr": 30,
@@ -414,7 +414,7 @@ ideologies = [
         }
     },
     {
-        "name": "Art-Oriented Poster",
+        "name": "Artistic Lurker",
         "stats": {
             "cont": 20,
             "intr": 50,
@@ -423,7 +423,7 @@ ideologies = [
         }
     },
     {
-        "name": "24/7 Art-Oriented Poster",
+        "name": "Art-Oriented Lurker",
         "stats": {
             "cont": 20,
             "intr": 50,
@@ -432,7 +432,7 @@ ideologies = [
         }
     },
     {
-        "name": "LKS Enjoying Art-Oriented Poster",
+        "name": "Lurking Art Exceptionalist",
         "stats": {
             "cont": 10,
             "intr": 50,
@@ -441,7 +441,7 @@ ideologies = [
         }
     },
     {
-        "name": "Art-Only Lurker",
+        "name": "No-Life Art Purist",
         "stats": {
             "cont": 0,
             "intr": 30,
@@ -450,7 +450,7 @@ ideologies = [
         }
     },
     {
-        "name": "Artistic Exceptionalist",
+        "name": "Art Purist",
         "stats": {
             "cont": 0,
             "intr": 40,
@@ -459,7 +459,7 @@ ideologies = [
         }
     },
     {
-        "name": "24/7 Artistic Exceptionalist",
+        "name": "Connoisseur of the Subreddit",
         "stats": {
             "cont": 0,
             "intr": 50,
