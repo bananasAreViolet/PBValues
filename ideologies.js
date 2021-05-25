@@ -3,7 +3,7 @@ ideologies = [
         "name": "Oscar but Art Purist",
         "stats": {
             "cont": 100,
-            "shad": 50,
+            "intr": 50,
             "stat": 100,
             "know": 90
         }
@@ -12,7 +12,7 @@ ideologies = [
         "name": "24/7 Quality Art Purist",
         "stats": {
             "cont": 100,
-            "shad": 70,
+            "intr": 70,
             "stat": 80,
             "know": 80
         }
@@ -21,7 +21,7 @@ ideologies = [
         "name": "Quality Art Purist",
         "stats": {
             "cont": 100,
-            "shad": 100,
+            "intr": 100,
             "stat": 60,
             "know": 80
         }
@@ -30,34 +30,34 @@ ideologies = [
         "name": "Infrequent Poster Art Purist",
         "stats": {
             "cont": 100,
-            "shad": 70,
+            "intr": 70,
             "stat": 40,
             "know": 80
         }
     },
     {
-        "name": "Lurking Shadeless Art Purist",
+        "name": "Lurking Art Purist",
         "stats": {
             "cont": 100,
-            "shad": 30,
+            "intr": 30,
             "stat": 30,
             "know": 80
         }
     },
     {
-        "name": "Inactive Art Purist",
+        "name": "Super Lurking Art Purist",
         "stats": {
             "cont": 100,
-            "shad": 40,
+            "intr": 40,
             "stat": 20,
             "know": 70
         }
     },
     {
-        "name": "Super Inactive Art Purist",
+        "name": "Lurk-Only Art Purist",
         "stats": {
             "cont": 100,
-            "shad": 20,
+            "intr": 20,
             "stat": 0,
             "know": 60
         }
@@ -66,7 +66,7 @@ ideologies = [
         "name": "Lesser Known Posting Art Purist",
         "stats": {
             "cont": 100,
-            "shad": 50,
+            "intr": 50,
             "stat": 30,
             "know": 30
         }
@@ -75,7 +75,7 @@ ideologies = [
         "name": "Infrequent High Art Poster",
         "stats": {
             "cont": 80,
-            "shad": 30,
+            "intr": 30,
             "stat": 30,
             "know": 70
         }
@@ -84,7 +84,7 @@ ideologies = [
         "name": "Lurking Art & LKS Fan",
         "stats": {
             "cont": 80,
-            "shad": 50,
+            "intr": 50,
             "stat": 30,
             "know": 20
         }
@@ -93,7 +93,7 @@ ideologies = [
         "name": "High Art LKS Poster",
         "stats": {
             "cont": 80,
-            "shad": 50,
+            "intr": 50,
             "stat": 70,
             "know": 20
         }
@@ -102,16 +102,16 @@ ideologies = [
         "name": "Average High Art Fan",
         "stats": {
             "cont": 80,
-            "shad": 50,
+            "intr": 50,
             "stat": 50,
             "know": 80
         }
     },
     {
-        "name": "Shadeless High Art Fan",
+        "name": "Politics Liker High Art Fan",
         "stats": {
             "cont": 80,
-            "shad": 20,
+            "intr": 20,
             "stat": 50,
             "know": 70
         }
@@ -120,7 +120,7 @@ ideologies = [
         "name": "Average High Art Poster",
         "stats": {
             "cont": 80,
-            "shad": 80,
+            "intr": 80,
             "stat": 80,
             "know": 80
         }
@@ -129,7 +129,7 @@ ideologies = [
         "name": "24/7 Posting High Art Fan",
         "stats": {
             "cont": 80,
-            "shad": 50,
+            "intr": 50,
             "stat": 100,
             "know": 80
         }
@@ -138,7 +138,7 @@ ideologies = [
         "name": "Lurking Art Fan",
         "stats": {
             "cont": 60,
-            "shad": 40,
+            "intr": 40,
             "stat": 30,
             "know": 70
         }
@@ -147,7 +147,7 @@ ideologies = [
         "name": "Lurking LKS Fan",
         "stats": {
             "cont": 60,
-            "shad": 40,
+            "intr": 40,
             "stat": 30,
             "know": 20
         }
@@ -156,7 +156,7 @@ ideologies = [
         "name": "Average LKS Fan",
         "stats": {
             "cont": 60,
-            "shad": 50,
+            "intr": 50,
             "stat": 50,
             "know": 20
         }
@@ -165,7 +165,7 @@ ideologies = [
         "name": "More Known Nations Fan",
         "stats": {
             "cont": 60,
-            "shad": 60,
+            "intr": 60,
             "stat": 60,
             "know": 80
         }
@@ -174,16 +174,16 @@ ideologies = [
         "name": "LKS Fan",
         "stats": {
             "cont": 60,
-            "shad": 60,
+            "intr": 60,
             "stat": 50,
             "know": 30
         }
     },
     {
-        "name": "Known Nations & Shading Fan",
+        "name": "Known Nations & Community Fan",
         "stats": {
             "cont": 60,
-            "shad": 70,
+            "intr": 70,
             "stat": 60,
             "know": 80
         }
@@ -192,7 +192,7 @@ ideologies = [
         "name": "Known Nations Extremist",
         "stats": {
             "cont": 60,
-            "shad": 80,
+            "intr": 80,
             "stat": 60,
             "know": 100
         }
@@ -201,7 +201,7 @@ ideologies = [
         "name": "24/7 Known Nations Poster",
         "stats": {
             "cont": 60,
-            "shad": 50,
+            "intr": 50,
             "stat": 100,
             "know": 70
         }
@@ -210,7 +210,7 @@ ideologies = [
         "name": "Only Lurking Shading Disliker",
         "stats": {
             "cont": 50,
-            "shad": 20,
+            "intr": 20,
             "stat": 0,
             "know": 50
         }
@@ -219,7 +219,7 @@ ideologies = [
         "name": "Only Lurking Shading Fan",
         "stats": {
             "cont": 50,
-            "shad": 80,
+            "intr": 80,
             "stat": 0,
             "know": 50
         }
@@ -228,7 +228,7 @@ ideologies = [
         "name": "Lurking Known Nations Fan",
         "stats": {
             "cont": 60,
-            "shad": 60,
+            "intr": 60,
             "stat": 20,
             "know": 70
         }
@@ -237,7 +237,7 @@ ideologies = [
         "name": "Moderate Sub Browser",
         "stats": {
             "cont": 50,
-            "shad": 50,
+            "intr": 50,
             "stat": 50,
             "know": 50
         }
@@ -246,7 +246,7 @@ ideologies = [
         "name": "Average r/Polandball User",
         "stats": {
             "cont": 50,
-            "shad": 60,
+            "intr": 60,
             "stat": 60,
             "know": 60
         }
@@ -255,214 +255,214 @@ ideologies = [
         "name": "24/7 Posting LKS Fan",
         "stats": {
             "cont": 50,
-            "shad": 50,
+            "intr": 50,
             "stat": 100,
             "know": 20
         }
     },
     {
-        "name": "Lurking LKS Fan",
+        "name": "Lurking LKS & Politics Fan",
         "stats": {
             "cont": 40,
-            "shad": 30,
+            "intr": 30,
             "stat": 30,
             "know": 30
         }
     },
     {
-        "name": "Moderate Conservatism",
+        "name": "Comedic-Leaning LKS Fan",
         "stats": {
             "cont": 40,
-            "shad": 40,
+            "intr": 40,
             "stat": 50,
             "know": 30
         }
     },
     {
-        "name": "Reactionary",
+        "name": "LKS Extremist",
         "stats": {
             "cont": 40,
-            "shad": 40,
+            "intr": 40,
             "stat": 40,
             "know": 10
         }
     },
     {
-        "name": "Social Libertarianism",
+        "name": "Art-Leaning Frequent Poster",
         "stats": {
             "cont": 60,
-            "shad": 70,
+            "intr": 70,
             "stat": 80,
             "know": 70
         }
     },
     {
-        "name": "Libertarianism",
+        "name": "Comedy-Leaning Poster",
         "stats": {
             "cont": 40,
-            "shad": 60,
+            "intr": 60,
             "stat": 80,
             "know": 60
         }
     },
     {
-        "name": "Anarcho-Egoism",
+        "name": "24/7 Comedy-Leaning Poster",
         "stats": {
             "cont": 40,
-            "shad": 50,
+            "intr": 50,
             "stat": 100,
             "know": 50
         }
     },
     {
-        "name": "Nazism",
+        "name": "Only-Lurking LKS Extremist",
         "stats": {
             "cont": 40,
-            "shad": 0,
+            "intr": 0,
             "stat": 0,
             "know": 5
         }
     },
     {
-        "name": "Autocracy",
+        "name": "Lurking Politics Fan",
         "stats": {
             "cont": 50,
-            "shad": 20,
+            "intr": 20,
             "stat": 20,
             "know": 50
         }
     },
     {
-        "name": "Fascism",
+        "name": "Lurking LKS & Politics Fan",
         "stats": {
             "cont": 40,
-            "shad": 20,
+            "intr": 20,
             "stat": 20,
             "know": 20
         }
     },
     {
-        "name": "Capitalist Fascism",
+        "name": "Lurking Comedic LKS Liker",
         "stats": {
             "cont": 20,
-            "shad": 20,
+            "intr": 20,
             "stat": 20,
             "know": 20
         }
     },
     {
-        "name": "Conservatism",
+        "name": "Comedic LKS Liker",
         "stats": {
             "cont": 30,
-            "shad": 40,
+            "intr": 40,
             "stat": 40,
             "know": 20
         }
     },
     {
-        "name": "Neo-Liberalism",
+        "name": "Comedy-Liking Politics Fan",
         "stats": {
             "cont": 30,
-            "shad": 30,
+            "intr": 30,
             "stat": 50,
             "know": 60
         }
     },
     {
-        "name": "Classical Liberalism",
+        "name": "Comedy-Enjoying Known Nations Enjoyer",
         "stats": {
             "cont": 30,
-            "shad": 60,
+            "intr": 60,
             "stat": 60,
             "know": 80
         }
     },
     {
-        "name": "Authoritarian Capitalism",
+        "name": "Lurking Comedy & Politics Fan",
         "stats": {
             "cont": 20,
-            "shad": 30,
+            "intr": 30,
             "stat": 20,
             "know": 40
         }
     },
     {
-        "name": "State Capitalism",
+        "name": "Lurking Comedy Fan",
         "stats": {
             "cont": 20,
-            "shad": 50,
+            "intr": 50,
             "stat": 30,
             "know": 50
         }
     },
     {
-        "name": "Neo-Conservatism",
+        "name": "Comedy & LKS Fan",
         "stats": {
             "cont": 20,
-            "shad": 20,
+            "intr": 20,
             "stat": 40,
             "know": 20
         }
     },
     {
-        "name": "Fundamentalism",
+        "name": "LKS Exceptionalist",
         "stats": {
             "cont": 20,
-            "shad": 30,
+            "intr": 30,
             "stat": 30,
             "know": 5
         }
     },
     {
-        "name": "Libertarian Capitalism",
+        "name": "Comedy-Oriented Poster",
         "stats": {
             "cont": 20,
-            "shad": 50,
+            "intr": 50,
             "stat": 80,
             "know": 60
         }
     },
     {
-        "name": "Market Anarchism",
+        "name": "24/7 Comedy-Oriented Poster",
         "stats": {
             "cont": 20,
-            "shad": 50,
+            "intr": 50,
             "stat": 100,
             "know": 50
         }
     },
     {
-        "name": "Objectivism",
+        "name": "LKS Enjoying Comedy-Oriented Poster",
         "stats": {
             "cont": 10,
-            "shad": 50,
+            "intr": 50,
             "stat": 90,
             "know": 40
         }
     },
     {
-        "name": "Totalitarian Capitalism",
+        "name": "Comedy-Only Lurker",
         "stats": {
             "cont": 0,
-            "shad": 30,
+            "intr": 30,
             "stat": 0,
             "know": 50
         }
     },
     {
-        "name": "Ultra-Capitalism",
+        "name": "Comedy Exceptionalist",
         "stats": {
             "cont": 0,
-            "shad": 40,
+            "intr": 40,
             "stat": 50,
             "know": 50
         }
     },
     {
-        "name": "Anarcho-Capitalism",
+        "name": "24/7 Comedy Exceptionalist",
         "stats": {
             "cont": 0,
-            "shad": 50,
+            "intr": 50,
             "stat": 100,
             "know": 50
         }
