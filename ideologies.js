@@ -1,6 +1,6 @@
 ideologies = [
     {
-        "name": "Oscar but Art Purist",
+        "name": "Oscar",
         "stats": {
             "cont": 100,
             "intr": 50,
@@ -9,7 +9,7 @@ ideologies = [
         }
     },
     {
-        "name": "24/7 Quality Art Purist",
+        "name": "24/7 Quality Comedy Purist",
         "stats": {
             "cont": 100,
             "intr": 70,
@@ -18,7 +18,7 @@ ideologies = [
         }
     },
     {
-        "name": "Quality Art Purist",
+        "name": "Comedy Purist",
         "stats": {
             "cont": 100,
             "intr": 100,
@@ -27,7 +27,7 @@ ideologies = [
         }
     },
     {
-        "name": "Infrequent Poster Art Purist",
+        "name": "Infrequent Poster Comedy Purist",
         "stats": {
             "cont": 100,
             "intr": 70,
@@ -36,7 +36,7 @@ ideologies = [
         }
     },
     {
-        "name": "Lurking Art Purist",
+        "name": "Lurking Comedy Purist",
         "stats": {
             "cont": 100,
             "intr": 30,
@@ -45,7 +45,7 @@ ideologies = [
         }
     },
     {
-        "name": "Super Lurking Art Purist",
+        "name": "Super Lurking Comedy Purist",
         "stats": {
             "cont": 100,
             "intr": 40,
@@ -54,7 +54,7 @@ ideologies = [
         }
     },
     {
-        "name": "Lurk-Only Art Purist",
+        "name": "Lurk-Only Comedy Purist",
         "stats": {
             "cont": 100,
             "intr": 20,
@@ -63,7 +63,7 @@ ideologies = [
         }
     },
     {
-        "name": "Lesser Known Posting Art Purist",
+        "name": "Lesser Known Posting Comedy Purist",
         "stats": {
             "cont": 100,
             "intr": 50,
@@ -72,7 +72,7 @@ ideologies = [
         }
     },
     {
-        "name": "Infrequent High Art Poster",
+        "name": "Infrequent High Comedy Poster",
         "stats": {
             "cont": 80,
             "intr": 30,
@@ -81,7 +81,7 @@ ideologies = [
         }
     },
     {
-        "name": "Lurking Art & LKS Fan",
+        "name": "Lurking Comedy & LKS Fan",
         "stats": {
             "cont": 80,
             "intr": 50,
@@ -90,7 +90,7 @@ ideologies = [
         }
     },
     {
-        "name": "High Art LKS Poster",
+        "name": "High Comedy LKS Poster",
         "stats": {
             "cont": 80,
             "intr": 50,
@@ -99,7 +99,7 @@ ideologies = [
         }
     },
     {
-        "name": "Average High Art Fan",
+        "name": "Average Comedy Fan",
         "stats": {
             "cont": 80,
             "intr": 50,
@@ -108,7 +108,7 @@ ideologies = [
         }
     },
     {
-        "name": "Politics Liker High Art Fan",
+        "name": "Politics-Liking Comedy Fan",
         "stats": {
             "cont": 80,
             "intr": 20,
@@ -117,7 +117,7 @@ ideologies = [
         }
     },
     {
-        "name": "Average High Art Poster",
+        "name": "Average Quality Comedy Poster",
         "stats": {
             "cont": 80,
             "intr": 80,
@@ -126,7 +126,7 @@ ideologies = [
         }
     },
     {
-        "name": "24/7 Posting High Art Fan",
+        "name": "24/7 Posting Comedy Quality Fan",
         "stats": {
             "cont": 80,
             "intr": 50,
@@ -135,7 +135,7 @@ ideologies = [
         }
     },
     {
-        "name": "Lurking Art Fan",
+        "name": "Lurking Comedy Fan",
         "stats": {
             "cont": 60,
             "intr": 40,
@@ -207,7 +207,7 @@ ideologies = [
         }
     },
     {
-        "name": "Only Lurking Shading Disliker",
+        "name": "Only Lurking Community Liker",
         "stats": {
             "cont": 50,
             "intr": 20,
@@ -216,7 +216,7 @@ ideologies = [
         }
     },
     {
-        "name": "Only Lurking Shading Fan",
+        "name": "Only Lurking Politics Fan",
         "stats": {
             "cont": 50,
             "intr": 80,
@@ -270,7 +270,7 @@ ideologies = [
         }
     },
     {
-        "name": "Comedic-Leaning LKS Fan",
+        "name": "Art-Leaning LKS Fan",
         "stats": {
             "cont": 40,
             "intr": 40,
@@ -288,7 +288,7 @@ ideologies = [
         }
     },
     {
-        "name": "Art-Leaning Frequent Poster",
+        "name": "Comedy-Leaning Frequent Poster",
         "stats": {
             "cont": 60,
             "intr": 70,
@@ -297,7 +297,7 @@ ideologies = [
         }
     },
     {
-        "name": "Comedy-Leaning Poster",
+        "name": "Art-Leaning Poster",
         "stats": {
             "cont": 40,
             "intr": 60,
@@ -306,7 +306,7 @@ ideologies = [
         }
     },
     {
-        "name": "24/7 Comedy-Leaning Poster",
+        "name": "24/7 Art-Leaning Poster",
         "stats": {
             "cont": 40,
             "intr": 50,
@@ -342,7 +342,7 @@ ideologies = [
         }
     },
     {
-        "name": "Lurking Comedic LKS Liker",
+        "name": "Lurking Artistic LKS Liker",
         "stats": {
             "cont": 20,
             "intr": 20,
@@ -351,7 +351,7 @@ ideologies = [
         }
     },
     {
-        "name": "Comedic LKS Liker",
+        "name": "Artistic LKS Liker",
         "stats": {
             "cont": 30,
             "intr": 40,
@@ -360,7 +360,7 @@ ideologies = [
         }
     },
     {
-        "name": "Comedy-Liking Politics Fan",
+        "name": "Art-Liking Politics Fan",
         "stats": {
             "cont": 30,
             "intr": 30,
@@ -369,7 +369,7 @@ ideologies = [
         }
     },
     {
-        "name": "Comedy-Enjoying Known Nations Enjoyer",
+        "name": "Art-Enjoying Known Nations Enjoyer",
         "stats": {
             "cont": 30,
             "intr": 60,
@@ -378,7 +378,7 @@ ideologies = [
         }
     },
     {
-        "name": "Lurking Comedy & Politics Fan",
+        "name": "Lurking Art & Politics Fan",
         "stats": {
             "cont": 20,
             "intr": 30,
@@ -387,7 +387,7 @@ ideologies = [
         }
     },
     {
-        "name": "Lurking Comedy Fan",
+        "name": "Lurking Art Fan",
         "stats": {
             "cont": 20,
             "intr": 50,
@@ -396,7 +396,7 @@ ideologies = [
         }
     },
     {
-        "name": "Comedy & LKS Fan",
+        "name": "Art & LKS Fan",
         "stats": {
             "cont": 20,
             "intr": 20,
@@ -414,7 +414,7 @@ ideologies = [
         }
     },
     {
-        "name": "Comedy-Oriented Poster",
+        "name": "Art-Oriented Poster",
         "stats": {
             "cont": 20,
             "intr": 50,
@@ -423,7 +423,7 @@ ideologies = [
         }
     },
     {
-        "name": "24/7 Comedy-Oriented Poster",
+        "name": "24/7 Art-Oriented Poster",
         "stats": {
             "cont": 20,
             "intr": 50,
@@ -432,7 +432,7 @@ ideologies = [
         }
     },
     {
-        "name": "LKS Enjoying Comedy-Oriented Poster",
+        "name": "LKS Enjoying Art-Oriented Poster",
         "stats": {
             "cont": 10,
             "intr": 50,
@@ -441,7 +441,7 @@ ideologies = [
         }
     },
     {
-        "name": "Comedy-Only Lurker",
+        "name": "Art-Only Lurker",
         "stats": {
             "cont": 0,
             "intr": 30,
@@ -450,7 +450,7 @@ ideologies = [
         }
     },
     {
-        "name": "Comedy Exceptionalist",
+        "name": "Artistic Exceptionalist",
         "stats": {
             "cont": 0,
             "intr": 40,
@@ -459,7 +459,7 @@ ideologies = [
         }
     },
     {
-        "name": "24/7 Comedy Exceptionalist",
+        "name": "24/7 Artistic Exceptionalist",
         "stats": {
             "cont": 0,
             "intr": 50,
