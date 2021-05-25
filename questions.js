@@ -522,34 +522,34 @@ questions = [
         }
     },
     {
-        "question": "If we accept migrants at all, it is important that they assimilate into our culture.",
+        "question": "LKS is a bad idea because not everyone will manage to understand a joke about a certain country.",
         "effect": {
             "cont": 0,
             "intr": 0,
-            "stat": -5,
+            "stat": 0,
             "know": -10
         }
     },
     {
-        "question": "Abortion should be prohibited in most or all cases.",
+        "question": "I frequently post comics which people find funny.",
         "effect": {
-            "cont": 0,
-            "intr": 0,
-            "stat": -10,
-            "know": -10
-        }
-    },
-    {
-        "question": "Gun ownership should be prohibited for those without a valid reason.",
-        "effect": {
-            "cont": 0,
+            "cont": 10,
             "intr": 0,
             "stat": -10,
             "know": 0
         }
     },
     {
-        "question": "I support single-payer, universal healthcare.",
+        "question": "I don't post on LKS because I don't have any comic ideas.",
+        "effect": {
+            "cont": 0,
+            "intr": 0,
+            "stat": 10,
+            "know": -10
+        }
+    },
+    {
+        "question": "r/Polandball is about wiggly mouse-drawn comics, not high-effort art.",
         "effect": {
             "cont": 10,
             "intr": 0,
@@ -558,75 +558,75 @@ questions = [
         }
     },
     {
-        "question": "Prostitution should be illegal.",
-        "effect": {
-            "cont": 0,
-            "intr": 0,
-            "stat": -10,
-            "know": -10
-        }
-    },
-    {
-        "question": "Maintaining family values is essential.",
-        "effect": {
-            "cont": 0,
-            "intr": 0,
-            "stat": 0,
-            "know": -10
-        }
-    },
-    {
-        "question": "To chase progress at all costs is dangerous.",
-        "effect": {
-            "cont": 0,
-            "intr": 0,
-            "stat": 0,
-            "know": -10
-        }
-    },
-    {
-        "question": "Genetic modification is a force for good, even on humans.",
-        "effect": {
-            "cont": 0,
-            "intr": 0,
-            "stat": 0,
-            "know": 10
-        }
-    },
-    {
-        "question": "We should open our borders to immigration.",
-        "effect": {
-            "cont": 0,
-            "intr": 10,
-            "stat": 10,
-            "know": 0
-        }
-    },
-    {
-        "question": "Governments should be as concerned about foreigners as they are about their own citizens.",
-        "effect": {
-            "cont": 0,
-            "intr": 10,
-            "stat": 0,
-            "know": 0
-        }
-    },
-    {
-        "question": "All people - regardless of factors like culture or sexuality - should be treated equally.",
-        "effect": {
-            "cont": 10,
-            "intr": 10,
-            "stat": 10,
-            "know": 10
-        }
-    },
-    {
-        "question": "It is important that we further my group's goals above all others.",
+        "question": "I love it when a comic has high-effort art. It shows that a lot of work has been put in.",
         "effect": {
             "cont": -10,
-            "intr": -10,
+            "intr": 0,
+            "stat": 0,
+            "know": 0
+        }
+    },
+    {
+        "question": "Common stereotypes for major nations should be JLP'd more often.",
+        "effect": {
+            "cont": 0,
+            "intr": 0,
+            "stat": 0,
+            "know": 10
+        }
+    },
+    {
+        "question": "I post comics on r/Polandball.",
+        "effect": {
+            "cont": 0,
+            "intr": 0,
             "stat": -10,
-            "know": -10
+            "know": 0
+        }
+    },
+    {
+        "question": "I am a member of r/Polandball more for its community than its political theme.",
+        "effect": {
+            "cont": 0,
+            "intr": -10,
+            "stat": 0,
+            "know": 0
+        }
+    },
+    {
+        "question": "The effort bar for approval requests should be lower if the request has high-effort art.",
+        "effect": {
+            "cont": -15,
+            "intr": 0,
+            "stat": 0,
+            "know": 0
+        }
+    },
+    {
+        "question": "LKS should be done more often and within smaller periods of time.",
+        "effect": {
+            "cont": 0,
+            "intr": 0,
+            "stat": 0,
+            "know": 10
+        }
+    },
+    {
+        "question": "These days I lurk more than post.",
+        "effect": {
+            "cont": 0,
+            "intr": 0,
+            "stat": 15,
+            "know": 0
+        }
+    },
+    {
+        "question": "I love the r/Polandball community.",
+        "effect": {
+            "cont": 0,
+            "intr": -20,
+            "stat": 0,
+            "know": 0
         }
     }
 ];
