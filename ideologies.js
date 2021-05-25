@@ -18,11 +18,11 @@ ideologies = [
         }
     },
     {
-        "name": "Comedic Politics Enjoyer",
+        "name": "Comedic Politics Enjoyer", //left off here
         "stats": {
             "cont": 100,
-            "intr": 100,
-            "stat": 60,
+            "intr": 60,
+            "stat": 100,
             "know": 80
         }
     },
@@ -30,8 +30,8 @@ ideologies = [
         "name": "Average Comedy Purist",
         "stats": {
             "cont": 100,
-            "intr": 70,
-            "stat": 40,
+            "intr": 40,
+            "stat": 70,
             "know": 80
         }
     },
@@ -48,8 +48,8 @@ ideologies = [
         "name": "Active Comedy Purist",
         "stats": {
             "cont": 100,
-            "intr": 40,
-            "stat": 20,
+            "intr": 20,
+            "stat": 40,
             "know": 70
         }
     },
@@ -57,8 +57,8 @@ ideologies = [
         "name": "Post-Only Comedy Purist",
         "stats": {
             "cont": 100,
-            "intr": 20,
-            "stat": 0,
+            "intr": 0,
+            "stat": 20,
             "know": 60
         }
     },
@@ -66,8 +66,8 @@ ideologies = [
         "name": "Frequently Posting Comedy Purist",
         "stats": {
             "cont": 100,
-            "intr": 50,
-            "stat": 30,
+            "intr": 30,
+            "stat": 50,
             "know": 30
         }
     },
@@ -84,8 +84,8 @@ ideologies = [
         "name": "Oscar, essentially",
         "stats": {
             "cont": 80,
-            "intr": 50,
-            "stat": 30,
+            "intr": 30,
+            "stat": 50,
             "know": 20
         }
     },
@@ -93,8 +93,8 @@ ideologies = [
         "name": "Inactive Version of Oscar",
         "stats": {
             "cont": 80,
-            "intr": 50,
-            "stat": 70,
+            "intr": 70,
+            "stat": 50,
             "know": 20
         }
     },
@@ -111,8 +111,8 @@ ideologies = [
         "name": "Community-Oriented Comedy Enjoyer",
         "stats": {
             "cont": 80,
-            "intr": 20,
-            "stat": 50,
+            "intr": 50,
+            "stat": 20,
             "know": 70
         }
     },
@@ -129,8 +129,8 @@ ideologies = [
         "name": "Full-Lurking Comedy Fan",
         "stats": {
             "cont": 80,
-            "intr": 50,
-            "stat": 100,
+            "intr": 100,
+            "stat": 50,
             "know": 80
         }
     },
@@ -138,8 +138,8 @@ ideologies = [
         "name": "Active LKS Enjoyer",
         "stats": {
             "cont": 60,
-            "intr": 40,
-            "stat": 30,
+            "intr": 30,
+            "stat": 40,
             "know": 70
         }
     },
@@ -147,8 +147,8 @@ ideologies = [
         "name": "Active LKS Disliker",
         "stats": {
             "cont": 60,
-            "intr": 40,
-            "stat": 30,
+            "intr": 30,
+            "stat": 40,
             "know": 20
         }
     },
@@ -174,8 +174,8 @@ ideologies = [
         "name": "What the hell is a Ghana?",
         "stats": {
             "cont": 60,
-            "intr": 60,
-            "stat": 50,
+            "intr": 50,
+            "stat": 60,
             "know": 30
         }
     },
@@ -183,8 +183,8 @@ ideologies = [
         "name": "Political Enthusiast",
         "stats": {
             "cont": 60,
-            "intr": 70,
-            "stat": 60,
+            "intr": 60,
+            "stat": 70,
             "know": 80
         }
     },
@@ -192,8 +192,8 @@ ideologies = [
         "name": "Why is the US not banned yet?",
         "stats": {
             "cont": 60,
-            "intr": 80,
-            "stat": 60,
+            "intr": 60,
+            "stat": 80,
             "know": 100
         }
     },
@@ -201,8 +201,8 @@ ideologies = [
         "name": "Grayname LKS Reader",
         "stats": {
             "cont": 60,
-            "intr": 50,
-            "stat": 100,
+            "intr": 100,
+            "stat": 50,
             "know": 70
         }
     },
@@ -210,8 +210,8 @@ ideologies = [
         "name": "No-Life Community Member",
         "stats": {
             "cont": 50,
-            "intr": 20,
-            "stat": 0,
+            "intr": 0,
+            "stat": 20,
             "know": 50
         }
     },
@@ -219,8 +219,8 @@ ideologies = [
         "name": "No-Life Political Expert",
         "stats": {
             "cont": 50,
-            "intr": 80,
-            "stat": 0,
+            "intr": 0,
+            "stat": 80,
             "know": 50
         }
     },
@@ -228,8 +228,8 @@ ideologies = [
         "name": "Really Frequent Poster",
         "stats": {
             "cont": 60,
-            "intr": 60,
-            "stat": 20,
+            "intr": 20,
+            "stat": 60,
             "know": 70
         }
     },
@@ -255,8 +255,8 @@ ideologies = [
         "name": "Lurking LKS Disliker",
         "stats": {
             "cont": 50,
-            "intr": 50,
-            "stat": 100,
+            "intr": 100,
+            "stat": 50,
             "know": 20
         }
     },
@@ -273,8 +273,8 @@ ideologies = [
         "name": "Moderate LKS Disliker",
         "stats": {
             "cont": 40,
-            "intr": 40,
-            "stat": 50,
+            "intr": 50,
+            "stat": 40,
             "know": 30
         }
     },
@@ -291,8 +291,8 @@ ideologies = [
         "name": "Comedy-Leaning Lurker",
         "stats": {
             "cont": 60,
-            "intr": 70,
-            "stat": 80,
+            "intr": 80,
+            "stat": 70,
             "know": 70
         }
     },
@@ -300,8 +300,8 @@ ideologies = [
         "name": "Rare Poster",
         "stats": {
             "cont": 40,
-            "intr": 60,
-            "stat": 80,
+            "intr": 80,
+            "stat": 60,
             "know": 60
         }
     },
@@ -309,8 +309,8 @@ ideologies = [
         "name": "Never-Posting Art Liker",
         "stats": {
             "cont": 40,
-            "intr": 50,
-            "stat": 100,
+            "intr": 100,
+            "stat": 50,
             "know": 50
         }
     },
@@ -363,8 +363,8 @@ ideologies = [
         "name": "Artistic Community Fan",
         "stats": {
             "cont": 30,
-            "intr": 30,
-            "stat": 50,
+            "intr": 50,
+            "stat": 30,
             "know": 60
         }
     },
@@ -381,8 +381,8 @@ ideologies = [
         "name": "Artistic Discord Member",
         "stats": {
             "cont": 20,
-            "intr": 30,
-            "stat": 20,
+            "intr": 20,
+            "stat": 30,
             "know": 40
         }
     },
@@ -390,8 +390,8 @@ ideologies = [
         "name": "Average r/Polandballart User",
         "stats": {
             "cont": 20,
-            "intr": 50,
-            "stat": 30,
+            "intr": 30,
+            "stat": 50,
             "know": 50
         }
     },
@@ -399,8 +399,8 @@ ideologies = [
         "name": "Artistic r/PBC User",
         "stats": {
             "cont": 20,
-            "intr": 20,
-            "stat": 40,
+            "intr": 40,
+            "stat": 20,
             "know": 20
         }
     },
@@ -417,8 +417,8 @@ ideologies = [
         "name": "Artistic Lurker",
         "stats": {
             "cont": 20,
-            "intr": 50,
-            "stat": 80,
+            "intr": 80,
+            "stat": 50,
             "know": 60
         }
     },
@@ -426,8 +426,8 @@ ideologies = [
         "name": "Art-Oriented Lurker",
         "stats": {
             "cont": 20,
-            "intr": 50,
-            "stat": 100,
+            "intr": 100,
+            "stat": 50,
             "know": 50
         }
     },
@@ -435,8 +435,8 @@ ideologies = [
         "name": "Lurking Art Exceptionalist",
         "stats": {
             "cont": 10,
-            "intr": 50,
-            "stat": 90,
+            "intr": 90,
+            "stat": 50,
             "know": 40
         }
     },
@@ -444,8 +444,8 @@ ideologies = [
         "name": "No-Life Art Purist",
         "stats": {
             "cont": 0,
-            "intr": 30,
-            "stat": 0,
+            "intr": 0,
+            "stat": 30,
             "know": 50
         }
     },
@@ -453,8 +453,8 @@ ideologies = [
         "name": "Art Purist",
         "stats": {
             "cont": 0,
-            "intr": 40,
-            "stat": 50,
+            "intr": 50,
+            "stat": 40,
             "know": 50
         }
     },
@@ -462,8 +462,8 @@ ideologies = [
         "name": "Connoisseur of the Subreddit",
         "stats": {
             "cont": 0,
-            "intr": 50,
-            "stat": 100,
+            "intr": 100,
+            "stat": 50,
             "know": 50
         }
     }
