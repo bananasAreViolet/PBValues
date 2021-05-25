@@ -3,8 +3,8 @@ ideologies = [
         "name": "Lurking Comedy Purist",
         "stats": {
             "cont": 100,
-            "intr": 50,
-            "stat": 100,
+            "intr": 100,
+            "stat": 50,
             "know": 90
         }
     },
@@ -12,8 +12,8 @@ ideologies = [
         "name": "Lurking LKS Enjoyer",
         "stats": {
             "cont": 100,
-            "intr": 70,
-            "stat": 80,
+            "intr": 80,
+            "stat": 70,
             "know": 80
         }
     },
