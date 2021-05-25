@@ -49,7 +49,7 @@ questions = [
         "effect": {
             "cont": 0,
             "intr": 0,
-            "stat": -10,
+            "stat": 10,
             "know": 0
         }
     },
@@ -94,7 +94,7 @@ questions = [
         "effect": {
             "cont": 10,
             "intr": 0,
-            "stat": 10,
+            "stat": -10,
             "know": 0
         }
     },
@@ -103,7 +103,7 @@ questions = [
         "effect": {
             "cont": -10,
             "intr": 0,
-            "stat": 10,
+            "stat": -10,
             "know": 0
         }
     },
@@ -148,7 +148,7 @@ questions = [
         "effect": {
             "cont": 0,
             "intr": 0,
-            "stat": -10,
+            "stat": 10,
             "know": 0
         }
     },
@@ -158,7 +158,7 @@ questions = [
             "cont": 0,
             "intr": 0,
             "stat": 10,
-            "know": -10
+            "know": 10
         }
     },
     {
@@ -193,7 +193,7 @@ questions = [
         "effect": {
             "cont": 0,
             "intr": 0,
-            "stat": -20,
+            "stat": 20,
             "know": 0
         }
     },
@@ -238,7 +238,7 @@ questions = [
         "effect": {
             "cont": 0,
             "intr": 10,
-            "stat": 10,
+            "stat": -10,
             "know": 0
         }
     },
@@ -247,7 +247,7 @@ questions = [
         "effect": {
             "cont": 0,
             "intr": 5,
-            "stat": -5,
+            "stat": 5,
             "know": 0
         }
     },
@@ -256,7 +256,7 @@ questions = [
         "effect": {
             "cont": 0,
             "intr": 10,
-            "stat": 10,
+            "stat": -10,
             "know": 0
         }
     },
@@ -265,7 +265,7 @@ questions = [
         "effect": {
             "cont": 0,
             "intr": 10,
-            "stat": 5,
+            "stat": -5,
             "know": 0
         }
     },
@@ -274,7 +274,7 @@ questions = [
         "effect": {
             "cont": 0,
             "intr": 0,
-            "stat": 10,
+            "stat": -10,
             "know": 5
         }
     },
@@ -283,7 +283,7 @@ questions = [
         "effect": {
             "cont": 0,
             "intr": 0,
-            "stat": -10,
+            "stat": 10,
             "know": 0
         }
     },
@@ -292,7 +292,7 @@ questions = [
         "effect": {
             "cont": 0,
             "intr": 20,
-            "stat": -10,
+            "stat": 10,
             "know": 5
         }
     },
@@ -301,7 +301,7 @@ questions = [
         "effect": {
             "cont": 0,
             "intr": 0,
-            "stat": 10,
+            "stat": -10,
             "know": 0
         }
     },
@@ -310,7 +310,7 @@ questions = [
         "effect": {
             "cont": -10,
             "intr": 0,
-            "stat": 15,
+            "stat": -15,
             "know": 0
         }
     },
@@ -319,7 +319,7 @@ questions = [
         "effect": {
             "cont": 0,
             "intr": 0,
-            "stat": -15,
+            "stat": 15,
             "know": 0
         }
     },
