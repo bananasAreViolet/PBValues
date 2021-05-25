@@ -1,2 +1,2 @@
-# 8values.github.io
-The 8values Political Quiz measures individuals' political values, including Equality, Nation, Liberty, Tradition, Markets, World, Authority, and Progress.
+# PBvalues.github.io
+The PBvalues Quiz measures individuals' r/polandball values, including Comedy, Shading, Posting, Lesser Known Nations, Humor, Shadelessness, Lurking, and More Known Nations.
