@@ -337,7 +337,7 @@ questions = [
         "effect": {
             "cont": 0,
             "intr": 0,
-            "stat": 0
+            "stat": 0,
             "know": 10
         }
     },
